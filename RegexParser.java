@@ -1,4 +1,3 @@
-package com.inneractive;
 
 /**
  * Fyber's special regex parser.
